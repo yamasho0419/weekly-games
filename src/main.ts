@@ -8,7 +8,7 @@ const LIVES = 4;
 const BASE_LIMIT_MS = 4000;
 const SPEEDUP_EVERY = 4;
 const SPEEDUP_RATE = 1.15;
-const SITE_URL = "https://yamasinagames.github.io/weekly-games/";
+const SITE_URL = "https://yamasho0419.github.io/weekly-games/";
 const BEST_KEY = "weekly-games:feed:best";
 
 const $ = (id: string) => document.getElementById(id)!;
